@@ -38,6 +38,6 @@
 <br><hr>
 
 <img src='https://user-images.githubusercontent.com/116752330/232573300-b56334a7-6c38-4693-a65b-a81a20b3a6ad.png'/>
-<p align='center'>And in this example it shows u moving the Pawn to the A4 position, where the green squares was pointing and then the board will wait the "black" pieces to play, but the pieces arent black, they are white, well u got it.<br>The game is working nice, every piece have it movement, it shows a message of wich player win and its cool, have fun using this code.</p>
+<p align='center'>And in this example it shows u moving the Pawn to the A4 position, where the green squares was pointing and then the board will wait the "black" pieces to play, but the pieces arent black, they are yellow, well u got it.<br>The game is working nice, every piece have it movement, it shows a message of wich player win and its cool, have fun using this code.</p>
 <br>
 </div>
